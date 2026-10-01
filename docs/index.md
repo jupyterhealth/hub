@@ -15,6 +15,11 @@ Create the Exchange account that logs you into the Hub.
 Get onto the Hub and start JupyterLab to access the JupyterHealth Exchange.
 :::
 
+:::{card} Tutorial: from data to dashboard
+:link: tutorial.ipynb
+Load glucose data, plot it, and share it as a dashboard.
+:::
+
 :::{card} Run a simple analysis
 :link: run-an-analysis.md
 Pull data from the Exchange into a notebook for visualization.
