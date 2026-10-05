@@ -1,14 +1,14 @@
 version: 1
 # Navbar, footer, logo, theme, and plugins are shared across JupyterHealth docs sites.
 extends:
-  - https://raw.githubusercontent.com/jupyterhealth/jupyterhealth-docs/main/docs/_site/site.yml
+  - https://raw.githubusercontent.com/jupyterhealth/jupyterhealth.github.io/main/docs/_site/site.yml
 project:
   title: JupyterHealth Hub
-  github: https://github.com/jupyterhealth/jupyterhealth-hub-docs
+  github: https://github.com/jupyterhealth/hub
   references:
     2i2c: https://docs.2i2c.org/
-    jh: https://jupyterhealth-docs.readthedocs.io/en/latest/
-    jhe: https://jupyterhealth.github.io/software-documentation/
+    jh: https://docs.jupyterhealth.org/
+    jhe: https://docs.jupyterhealth.org/software-documentation/
   toc:
     - file: index.md
     - file: sign-up.md
