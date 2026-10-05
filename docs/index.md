@@ -15,6 +15,11 @@ Create the Exchange account that logs you into the Hub.
 Get onto the Hub and start JupyterLab to access the JupyterHealth Exchange.
 :::
 
+:::{card} Tutorial: Plot glucose data
+:link: tutorial.md
+Open a short notebook and plot a patient's glucose data, step by step.
+:::
+
 :::{card} Explore your data
 :link: run-an-analysis.md
 Connect to the Exchange and view studies, patients, and observations in a notebook.

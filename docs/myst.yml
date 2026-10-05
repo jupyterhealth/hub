@@ -13,6 +13,7 @@ project:
     - file: index.md
     - file: sign-up.md
     - file: log-in.md
+    - file: tutorial.md
     - file: run-an-analysis.md
     - file: get-a-token.md
 site:
